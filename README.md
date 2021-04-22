@@ -8,7 +8,7 @@ In todays time we see a lot of the shortage of the doctors in the world especial
 
 We have built this webapp "Medslife App" to help clinicians identify the appropriate scans or tests to order, decreasing unnecessary procedures and reducing cost of care. You can diagnose the following health conditions :
 
-* Breast Cancer • Diabetes • Heart Condition • Liver Condition • Kidney Condition
+Breast Cancer • Diabetes • Heart Condition • Liver Condition • Kidney Condition
 
 # Data Selection
 The datasets used for model development are available on kaggle.com
