@@ -6,7 +6,7 @@ Do ⭐ the repository if it helped you in anyway.
 
 In todays time we see a lot of the shortage of the doctors in the world especially in India. A lot of people are suffering a lot without the help of the proper medical checkup. Mobile devices and apps provide many benefits for medical care professionals, perhaps most significantly increased access to point-of-care tools, which has been shown to support better clinical decision-making and improved patient outcomes.
 
-We have built this webapp "Medscape App" to help clinicians identify the appropriate scans or tests to order, decreasing unnecessary procedures and reducing cost of care. You can diagnose the following health conditions :
+We have built this webapp "Medslife App" to help clinicians identify the appropriate scans or tests to order, decreasing unnecessary procedures and reducing cost of care. You can diagnose the following health conditions :
 
 * Breast Cancer • Diabetes • Heart Condition • Liver Condition • Kidney Condition
 
